@@ -9,7 +9,7 @@
       rgba(0, 0, 0, 0.5) 0%,
       rgba(0, 0, 0, 0.5) 100%
     ),
-    url("background.png");
+    url("/Project/img/background.png");
   background-position: center;
   background-size: cover;
   height: 100vh;

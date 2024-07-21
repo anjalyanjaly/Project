@@ -1,7 +1,7 @@
- <?php 
-    $title = "Login";
-    require_once './includes/header.php';
-    require_once './db/conn.php';
+<?php 
+$title = "Login";
+require_once './includes/header.php';
+require_once './db/conn.php';
 ?>
 <div class="container mt-5">
     <h2>Login</h2>
@@ -18,5 +18,5 @@
     </form>
 </div>
 <?php 
-    require_once "./includes/footer.php"
+require_once "./includes/footer.php";
 ?>
